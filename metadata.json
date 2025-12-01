@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Scorpion Rover OS",
+  "description": "A futuristic telemetry and control interface for a Scorpion-inspired planetary rover. Features real-time traversing data, 4-DOF arm control, and an AI engineering assistant capable of explaining the biomimetic design choices.",
+  "requestFramePermissions": []
+}
